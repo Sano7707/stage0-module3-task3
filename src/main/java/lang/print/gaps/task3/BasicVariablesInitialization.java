@@ -5,7 +5,7 @@ public class BasicVariablesInitialization {
         //write code here
         int first = 1;
         int second = 10;
-        int third = 1000;
+        int third = 100;
         System.out.println(first);
         System.out.println(second);
         System.out.println(third);
